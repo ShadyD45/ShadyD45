@@ -39,11 +39,6 @@ Lately, I’ve been diving into Go, modern distributed architectures, and JVM in
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ShadyD45&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShadyD45&theme=darcula&no-frame=false&no-bg=false&margin-w=4)
 
